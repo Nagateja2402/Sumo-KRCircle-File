@@ -1,0 +1,12 @@
+<configuration>
+    <input>
+        <net-file value="C:\Users\NAGATEJA\Sumo\2023-10-20-13-38-47\osm.net.xml"/>
+        <route-files value="C:\Users\NAGATEJA\Sumo\2023-10-20-13-38-47\duarouter.rou.xml"/>
+        <!-- Add other necessary input parameters -->
+    </input>
+    <output>
+        <output-file value="C:\Users\NAGATEJA\Sumo\2023-10-20-13-38-47\duarouter.output.csv"/>
+        <!-- Add other necessary output parameters -->
+    </output>
+    <!-- Add other DuaRouter parameters -->
+</configuration>
